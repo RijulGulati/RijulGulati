@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use Solana Rust API and building a Rust Library Crate](https://rijulgulati.com/blog/how-to-use-solana-rust-api-and-building-a-rust-library-crate)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
