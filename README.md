@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/_rijulgulati" target="blank"><img src="https://img.shields.io/twitter/follow/_rijulgulati?logo=twitter&style=for-the-badge" alt="_rijulgulati" /></a> </p>
 
-- 🔭 I’m currently working on [BlockPoll - Blockchain-based Polling Application](https://blockpoll.io)
+- 🔭 I’m currently working on [BlockPoll - Decentralized Blockchain-based Polling](https://github.com/BlockPoll)
 
-- 🌱 I’m currently learning **Rust, Solana Blockchain**
+- 🌱 I’m currently learning **Rust, Solana, NEAR Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://rijulgulati.com/projects](https://rijulgulati.com/projects)
 
